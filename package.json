@@ -1,0 +1,40 @@
+{
+  "name": "react-d3-gauge",
+  "version": "0.0.1",
+  "description": "Simple gauge component made with D3 for React",
+  "main": "build/index.js",
+  "dependencies": {
+    "d3": "^3.5.17"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "prop-types": "^15.6.0",
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliustaoglu/react-d3-gauge.git"
+  },
+  "keywords": [
+    "react",
+    "d3",
+    "gauge"
+  ],
+  "author": "Cuneyt Aliustaoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliustaoglu/react-d3-gauge/issues"
+  },
+  "homepage": "https://github.com/aliustaoglu/react-d3-gauge#readme"
+}
