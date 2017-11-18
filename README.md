@@ -30,11 +30,8 @@ export default App;
 ```
 
 #SCREENSHOTS
+![Gauge 1](https://raw.githubusercontent.com/aliustaoglu/react-d3-gauge/master/img/gauge-1.png)
 
+![Gauge 1](https://raw.githubusercontent.com/aliustaoglu/react-d3-gauge/master/img/gauge-2.png)
 
-[[https://github.com/aliustaoglu/react-d3-gauge/blob/master/img/gauge-1.png|alt=Gauge-1]]
-
-[[https://github.com/aliustaoglu/react-d3-gauge/blob/master/img/gauge-2.png|alt=Gauge-2]]
-
-[[https://github.com/aliustaoglu/react-d3-gauge/blob/master/img/gauge-3.png|alt=Gauge-3]]
-
+![Gauge 1](https://raw.githubusercontent.com/aliustaoglu/react-d3-gauge/master/img/gauge-3.png)
